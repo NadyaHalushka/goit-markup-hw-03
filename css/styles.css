@@ -324,13 +324,12 @@ justify-content: center;
     /*----------PORTFOLIO----------*/
 
     .portfolio{
-        padding-top: 0px;
+        padding-top: 96px;
         padding-bottom: 72px;
     }
 
     
     .portfolio-list{
-        padding-top: 96px;
         gap:24px;
         display: flex;
         align-items: center;
@@ -359,7 +358,7 @@ width: 101px;
 height: 48px;
 justify-content: center;
 align-items: center;
-
+border-radius: 4px;
 }
 
 
@@ -370,12 +369,6 @@ align-items: center;
     }
 
  /*----------APP----------*/
-
- .app{
-    padding-top: 120px;
-    padding-bottom: 120px;
- }
-
 
  .app-list {
 display: flex;
@@ -395,6 +388,7 @@ row-gap:48px;
 .app-container{
     padding-top: 32px;
     padding-bottom: 32px;
+    padding-left: 16px;
   }
  .app-after-title{
     margin-bottom: 8px;
