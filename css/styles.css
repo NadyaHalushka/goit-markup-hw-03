@@ -98,8 +98,7 @@ color:var(--text-color)
     display: flex;
     align-items: center;
     margin-right: auto;
-    padding-top: 24px;
-    padding-bottom: 24px;
+
 
 }
 
@@ -178,6 +177,7 @@ font-weight: 500;
 
     .hero{
         background: #2E2F42;
+        padding-top: 188px;
      padding-bottom: 188px;
     }
 
@@ -187,7 +187,6 @@ font-size: 56px;
 line-height:1.07;
 color: #FFFFFF;
 margin-bottom: 48px;
-padding-top: 188px;
 max-width: 495px;
 margin-left: auto;
 margin-right: auto;
@@ -207,6 +206,7 @@ cursor:pointer;
 background:var(--first-btn-color);
 display:block;
 margin: 0 auto;
+border: none;
 border-radius: 4px;
 padding: 16px 32px;
 
@@ -283,7 +283,7 @@ padding: 16px 32px;
 
     .team{
         background: #F4F4FD;
-        padding-top: 0;
+        padding-top: 120px;
         padding-bottom: 120px;
     }
 
@@ -336,6 +336,7 @@ justify-content: center;
         display: flex;
         align-items: center;
         justify-content: center;
+        margin-bottom: 72px;
     }
 
     .portfolio-item{}
@@ -359,7 +360,7 @@ width: 101px;
 height: 48px;
 justify-content: center;
 align-items: center;
-margin-bottom: 72px;
+
 }
 
 
